@@ -20,7 +20,7 @@ header h1 a:hover {
   padding: 10px;
 }
 nav li a:hover {
-  color: #7e8aa2;
+ font-size: 20px;
 }
 nav ul {
   padding-left: 0;
