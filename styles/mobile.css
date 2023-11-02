@@ -86,3 +86,17 @@ input[type="submit"] {
     background-color: #fff; 
     margin: 6px 0; 
   }
+
+  nav{ 
+    overflow: hidden; 
+    transition: height 0.5s; 
+  }
+  .VideoContainer{ 
+    display: flex; 
+    justify-content: center; 
+  } 
+  video{ 
+    width:100%; 
+    height: auto; 
+    max-width:560px; 
+  }  

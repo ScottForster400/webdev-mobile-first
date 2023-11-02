@@ -92,3 +92,13 @@ input[type="submit"] {
   width: auto; 
   margin: 0; 
 }
+.burger { 
+  display: none; 
+}
+nav { 
+  /* for burger menu */ 
+    overflow: auto;  
+  }
+.horse{
+  size: 10%;
+}
